@@ -27,8 +27,7 @@ void draw() {
     }
     yoff+=0.1;
   }
-  //background(img);
-  image(img, width/2, height/2, yoff, yoff);
+  background(img);
   stroke(0,0,0,50);
   
   translate(width/2, height/2+300); //translate the entire shape to 0,0 based on the canvas
