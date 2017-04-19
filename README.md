@@ -1,1 +1,2 @@
 "# Terrain-Generation" 
+A 3D Simulation written on Processing that simulates terrain generation. This program uses a 3D mesh created out of triangle strips. There are color fills around specific areas of the triangles based on the height to give the illusion of a texture being applied to the mesh. The background was a simple image made on Photoshop using the cloud filter on a sky blue background. The terrain generation itself is the mesh and it's polygons moving based on perler noise.
